@@ -29,8 +29,11 @@
             <table>
               <th>
                 <!--Add a border around our photo-->
-                <style> img {border: 5px solid #2F4F4F;} </style>
-                <img src="images/selfi.jpg" alt="selfi"/ width="355.33" height="355.33">
+                <style> img {
+                  border: 5px solid #2F4F4F;
+                  } 
+                </style>
+                <img src="images/selfi.jpg" alt="selfi" width="355.33" height="355.33">
               </th>
               <!--Table Right-->
                 <th><h2>About me</h2>
@@ -38,7 +41,7 @@
                   Hi!, I'm Kai. I am year 2 student in Singapore Polytechnic(SP)<br>
                   I am currently studying in MAE Aeronautical Engineering &#9992;. <br>
                   My current class is DARE/FT/2B/26.
-
+                  </p>
                 </th>
 </table>
             <h2 style="color:Indigo">Hobbies & Interest</h2>
