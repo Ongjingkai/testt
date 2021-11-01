@@ -19,7 +19,7 @@
                 <h4>Content Page</h4>
                 <!--Navigation Table-->
                 <ul>
-                    <li><a href="mainpage.html">Main</a></li>
+                    <li><a href="indexpage.html">Indexpage</a></li>
                     <li><a href="projects.html">Projects</a></li>
                     <li><a href="documentation.html">Documentation</a></li>
                     <li><a href="webtest.html">Tester Site</a></li>
