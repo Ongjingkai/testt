@@ -15,7 +15,8 @@ padding:12px;
 }
 
 #content{
-margin: auto;
+position: absolute;
+right: 0px;
 padding: 10px;
 float:right;
 }
