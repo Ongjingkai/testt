@@ -23,7 +23,8 @@
 <h2>IndexPage</h2>
 <p>
 <h3>This page is created for the purposes of documentating and showcasing of my <br>
-  projects in EP:1000.
+  projects in EP:1000.</h3>
+</p>
 </div>
 
 <div id="footer">
