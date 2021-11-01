@@ -1,0 +1,59 @@
+#container{
+background-color: #96C0CE;
+width: 1024px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+#header{
+background-color: #BEB9B5;
+color:DarkRed;
+text-align: center;
+font-style: arial;
+padding:12px;
+clear:right;
+
+
+
+}
+#content{
+padding: 10px;
+float:right;
+
+
+
+
+
+}
+
+#nav{
+background-color:#74828F;
+width:170px;
+padding:10px;
+float:left;
+height:700px;
+
+}
+
+#footer{
+clear:both;
+padding:10px;
+background-color:#BEB9B5;
+text-align:right;
+}
+
+body{
+background-color: #525564;
+background-image: url("images/bgph.jpg");
+background-size: auto;
+
+
+
+}
+
+#nav ul{list-style-type:none; padding:0;}
+h2{margin:0; color:Indigo;}
+h1{margin:0;}
+body {background-color:#2F4F4F;}
