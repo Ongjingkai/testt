@@ -66,7 +66,6 @@
                 </ul>
               </th>
           </table>
-
           <audio controls loop autoplay >
             <source src="music/triplebougertime.mp3" type="audio/mp3">
               </audio>
