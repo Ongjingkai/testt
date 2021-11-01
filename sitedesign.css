@@ -15,8 +15,7 @@ padding:12px;
 }
 
 #content{
-position: absolute;
-right: 0px;
+align-items: center
 padding: 10px;
 float:right;
 }
