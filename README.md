@@ -8,7 +8,6 @@
   </head>
       <body>
 <div id="container">
-
         <!-- Heading for the page-->
         <!-- This is to just prove that I can do this -->
         <div id="header">
@@ -16,7 +15,6 @@
         </div>
             <!-- table for selfi and about meself-->
             <!--Table Left-->
-
             <div id="nav">
                 <h4>Content Page</h4>
                 <!--Navigation Table-->
@@ -42,8 +40,7 @@
                   My current class is DARE/FT/2B/26.
 
                 </th>
-            </table>
-
+</table>
             <h2 style="color:Indigo">Hobbies & Interest</h2>
             I always believed that if I dislike all the options given to me, I should give myself a new option by "making" it.<br>
             <table>
