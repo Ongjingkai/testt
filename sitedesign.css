@@ -37,13 +37,18 @@ background-color:#BEB9B5;
 text-align:right;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 body{
 background-color: #525564;
 background-image: url("images/bgph.jpg");
 background-size: auto;
 }
-
-
 
 #nav ul{list-style-type:none; padding:0;}
 div.a{text-align: center; margin:0;}
