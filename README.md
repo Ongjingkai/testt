@@ -24,7 +24,7 @@
 <p>
 <h3>This page is created for the purposes of documentating and showcasing of my <br>
   projects in EP:1000.<br>
-  This is here to ensure the file is getting updated correctly
+  This is here to ensure the file is getting updated correctly (This is on README.MD)
 </h3>
 </div>
 
