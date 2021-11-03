@@ -8,6 +8,8 @@ margin-right: auto;
 #header{
 background-color: #BEB9B5;
 color:DarkRed;
+margin-left: auto;
+margin-right: auto;
 text-align: center;
 font-style: arial;
 padding:12px;
@@ -17,6 +19,7 @@ padding:12px;
 #content{
 align-items: center
 padding: 10px;
+float:right;
 }
 
 #nav{
