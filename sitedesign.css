@@ -27,6 +27,8 @@ float:left;
 height:700px;
 }
 
+#abmh{font-size: large;}
+
 #footer{
 clear:both;
 padding:10px;
@@ -38,12 +40,12 @@ body{
 background-color: #525564;
 background-image: url("images/bgph.jpg");
 background-size: auto;
-
-
-
 }
 
+
+
 #nav ul{list-style-type:none; padding:0;}
+
 h2{margin:0; color:Indigo;}
 h1{margin:0;}
 body {background-color:#2F4F4F;}
